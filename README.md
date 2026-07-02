@@ -33,7 +33,7 @@ The dashboard provides an easy-to-understand visual summary for inventory manage
 
 ![TABLEAU-Zepto Product Inventory &Pricing Dashboard]
 (image alt)
-[
+[https://github.com/noorulhidha/TABLEAU-Zepto%20Product%20Inventory%20%26Pricing%20Dashboard.png]
 
 ---
 
@@ -200,6 +200,12 @@ These filters allow users to explore specific product segments dynamically.
 * Data Cleaning
 * Data Analysis
 * Dashboard Development
+
+---
+
+## 📌 Conclusion
+
+This dashboard provides a clear overview of **Zepto's inventory and pricing performance** by analyzing product availability, category distribution, pricing, and stock status. The insights can help businesses optimize inventory, monitor pricing trends, and support data-driven decision-making through interactive visualizations.
 
 ---
 
