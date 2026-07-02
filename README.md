@@ -31,7 +31,7 @@ The dashboard provides an easy-to-understand visual summary for inventory manage
 
 ## 📊 Dashboard Preview
 
-![TABLEAU-Zepto Product Inventory & Pricing Dashboard](images/TABLEAU-Zepto%20Product%20Inventory%20%26%20Pricing%20Dashboard.png)
+![TABLEAU-Zepto Product Inventory & Pricing Dashboard](TABLEAU-Zepto%20Product%20Inventory%20%26%20Pricing%20Dashboard.png)
 
 ---
 
