@@ -190,17 +190,6 @@ These filters allow users to explore specific product segments dynamically.
 
 ---
 
-**Skills**
-
-* SQL (PostgreSQL)
-* Tableau
-* Microsoft Excel
-* Data Cleaning
-* Data Analysis
-* Dashboard Development
-
----
-
 ## 📌 Conclusion
 
 This dashboard provides a clear overview of **Zepto's inventory and pricing performance** by analyzing product availability, category distribution, pricing, and stock status. The insights can help businesses optimize inventory, monitor pricing trends, and support data-driven decision-making through interactive visualizations.
