@@ -1,6 +1,12 @@
 # Tableau_Project
 # Zepto_Product_Inventory_pricing_Dashboard
 
+An interactive **Tableau dashboard** built to analyze *Zepto's product inventory, pricing, discounts, and category-wise product availability*. This dashboard helps understand inventory distribution, pricing trends, and product assortment across different categories.
+
+---
+
+# Project Structure
+
 ```text
 # Zepto-Product-Inventory-Pricing-Dashboard/
 │
@@ -9,11 +15,6 @@
 ├── Images/ Dashboard.png
 └── README.md
 ```
-
-
-An interactive **Tableau dashboard** built to analyze *Zepto's product inventory, pricing, discounts, and category-wise product availability*. This dashboard helps understand inventory distribution, pricing trends, and product assortment across different categories.
-
----
 
 ## 📌 Project Overview
 
@@ -195,4 +196,3 @@ These filters allow users to explore specific product segments dynamically.
 This dashboard provides a clear overview of **Zepto's inventory and pricing performance** by analyzing product availability, category distribution, pricing, and stock status. The insights can help businesses optimize inventory, monitor pricing trends, and support data-driven decision-making through interactive visualizations.
 
 ---
-
